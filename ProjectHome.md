@@ -1,0 +1,1 @@
+Many bittorrent clients recently have been modified to add (unofficial) 'leecher' abilities, download as much as you want without uploading at all. I personally hate the idea, but I sometimes just want to download something quick, and rtorrent is my favourite torrent client. And I'm bored. So, why not make an rtorrent leecher mod.
